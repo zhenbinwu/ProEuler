@@ -1,4 +1,4 @@
 ProEuler
 ========
 
-My code for Project Euler
+My code for Project Euler.
